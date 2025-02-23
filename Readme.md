@@ -5,6 +5,6 @@ the Tools,
     - CSS
     - JavaScript
 
-The Project,
+The Project, \n
     * An Basic Stop Watch to practice Javascript.
     
